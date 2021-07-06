@@ -4,7 +4,7 @@ body {
 }
 
 .top-banner .top-photo {
-    height: 600px;
+    height: 650px;
     width: 100%;
     background-image: url('../images/ProjectCover4.png');
     background-size: cover;
@@ -19,5 +19,39 @@ body {
     display: inline-block;
     text-align: center;
     text-shadow: 10px 10px 8px black;
-    margin-bottom: 20px;
+}
+
+.flexible {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    margin: 0 5%;
+}
+
+.burger {
+    height: 500px;
+}
+
+.burger-photo img {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.burger-text {
+    margin-top: 200px;
+}
+
+.burger-text h1 {
+    font-size: 45px;
+    margin: 0px;
+}
+
+.orange {
+    color: orange;
+}
+
+.grey {
+    color: grey;
 }
