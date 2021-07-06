@@ -32,6 +32,7 @@ body {
 
 .burger {
     height: 500px;
+    margin-bottom: 100px;
 }
 
 .burger-photo img {
@@ -41,11 +42,16 @@ body {
 
 .burger-text {
     margin-top: 200px;
+    color: #333;
 }
 
 .burger-text h1 {
     font-size: 45px;
     margin: 0px;
+}
+
+.order img {
+    width: 100%;
 }
 
 .orange {
@@ -54,4 +60,29 @@ body {
 
 .grey {
     color: grey;
+}
+
+.button {
+    padding: 15px 35px;
+    background-image: linear-gradient(to left, orange, rgb(255, 81, 0));
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.order h1 {
+    font-size: 45px;
+    margin: 0px;
+    padding: 0px;
+    color: #222;
+}
+
+.order p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.order .height {
+    margin-top: 150px;
 }
