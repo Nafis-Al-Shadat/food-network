@@ -12,7 +12,7 @@ h1,
 .top-banner .top-photo {
     height: 650px;
     width: 100%;
-    background-image: url('../images/ProjectCover4.png');
+    background-image: url('../images/ProjectCover4.jpg');
     background-size: cover;
 }
 
@@ -104,7 +104,7 @@ h1,
 .about-me {
     margin: 100px 0 50px;
     height: 550px;
-    background-image: url('../images/7.png');
+    background-image: url('../images/7.jpg');
 }
 
 .about-me-text {
