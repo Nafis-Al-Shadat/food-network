@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner .top-photo {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/ProjectCover4.png');
+    background-size: cover;
+}
+
+.top-banner-text {
+    font-size: 80px;
+    font-weight: 600;
+    color: white;
+    line-height: 600px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    text-shadow: 10px 10px 8px black;
+    margin-bottom: 20px;
+}
